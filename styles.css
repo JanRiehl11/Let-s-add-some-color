@@ -46,4 +46,9 @@ button {
     cursor: pointer;
      outline: rgb(255, 0, 0) solid 4px;
     padding: 5px;
+    transition: 1s;
+}
+
+button:hover{
+    font-size: xx-small;
 }
