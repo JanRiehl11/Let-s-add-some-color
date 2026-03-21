@@ -54,5 +54,7 @@ button {
 }
 
 button:hover{
-    font-size: medium;
+    box-shadow: 10px 10px 5px 0px rgba(188,188,188,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(188,188,188,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(188,188,188,0.75);
 }
