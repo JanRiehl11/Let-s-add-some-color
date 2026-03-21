@@ -47,6 +47,7 @@ button {
      outline: rgb(255, 0, 0) solid 4px;
     padding: 5px;
     transition: 1s;
+    border-radius: 10px;
 }
 
 button:hover{
