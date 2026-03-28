@@ -63,3 +63,8 @@ title{
 }
 
 body { background-color: #ffffff; }
+
+input:invalid {
+    background-color: rgb(253, 105, 105);
+    
+}
