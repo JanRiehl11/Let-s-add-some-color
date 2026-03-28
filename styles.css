@@ -82,3 +82,11 @@ form {
     font-size: 10px;
 
 }
+
+.script {
+    display: none;
+}
+
+#formend {
+  display: none;
+}
